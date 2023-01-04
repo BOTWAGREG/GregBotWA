@@ -1,33 +1,33 @@
 let fs = require('fs')
 
 //Info maszeh
-global.owner = ["6285718828566"]
-global.mods = ["6285718828566"]
+global.owner = ["628990230055"]
+global.mods = ["628990230055"]
 
-global.namabot = 'XynaBotzシ' //nama BOT Lu
-global.packname = 'XynaBotzシ'
-global.author = 'Xynaa' //nama Owner
-global.ownernya = '6285718828566'
+global.namabot = 'GREG BOTシ' //nama BOT Lu
+global.packname = 'GREG BOTシ'
+global.author = 'Greg Slebew' //nama Owner
+global.ownernya = '628990230055'
 global.linkyt = 'https://youtube.com/@xynabotzreal' //link yt lu
 global.linkig = 'https://instagram.com/faelfilaa' //link ig
 global.linkgh = '-' //link github lu
-global.titlebot = `⫹⫺ WhatsApp Bot | By Xynaa`
-global.wm2 = 'bruh' //ganti aja kalau mau
-global.wm = 'XynaBotz'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Greg Slebew`
+global.wm2 = 'Greg Slebew' //ganti aja kalau mau
+global.wm = 'GREG BOT'
 global.colong1 = 'Ciss 📸'
-global.colong2 = 'XynaBotzシ︎'
+global.colong2 = 'GREG BOTシ︎'
 global.kontak2 = [
-['6285718828566', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ', true],
+['628990230055', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ', true],
 ]
 
 //Biodata OWNER Bre
-global.RL = 'HAMBAH ALLAH' //Nama RL Lu
-global.gender = 'Cewek' //jenis kelamin lu
-global.agama = 'islam' //agama lu
-global.age = '16' //usia lu sekarang
-global.kelas = 'ESEMKA' //kelas lu
+global.RL = 'HAMBAH YESUS' //Nama RL Lu
+global.gender = 'Cowok lah Tolol' //jenis kelamin lu
+global.agama = '-' //agama lu
+global.age = '14' //usia lu sekarang
+global.kelas = 'ESEMPE' //kelas lu
 global.hobi = 'Mangan/turu/ngoding' //hobi lu bre
-global.tempat = 'INDONESIA , BOGOR JABAR' //tempat tinggal lu
+global.tempat = 'INDONESIA , BALI' //tempat tinggal lu
 
 global.APIs = { // API Prefix
   // name: 'https://website'
